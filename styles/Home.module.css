@@ -108,6 +108,35 @@
   margin-left: 0.5rem;
 }
 
+.container {
+  max-width: 100%;
+  margin-top: 20px;
+}
+
+.button {
+  background: #0070f3;
+  border: 1px solid #0070f3;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.tokenDescription {
+  font-size: .8rem !important;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

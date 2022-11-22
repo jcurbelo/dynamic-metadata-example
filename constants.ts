@@ -1,0 +1,1 @@
+export const NIFTYKIT_API='https://api.niftykit.com';
